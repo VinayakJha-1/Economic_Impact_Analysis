@@ -19,7 +19,7 @@ According to Access now 2018, “An internet shutdown is an intentional disrupti
 1.3	Gaps in existing regulation
 
 Through analysis of secondary Data sources (Suspension of Telecom Services/Internet and Its impact, standing committee on C&IT 2021-22) and other sources, following gaps are identified in the present regulations governing Internet shutdown in India:
-<ol>
+<ul>
   <li>No public consultation before enacting the Internet Shutdown law 2017</li>
   <li>Definition of Inevitable circumstance - clear definition of conditions in which Internet Shutdown can be imposed by the state</li>
   <li>Process of Review and power to reverse shutdown - No clear definition of process to be followed by review committee before and after imposing the internet shutdown</li>
@@ -27,7 +27,7 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li>Composition of Review committee - Non-inclusion of non-executive members in the review committee (Review is done by officials which are working under the same government)</li>
   <li>Redressal mechanism - No redressal mechanism to challenge internet shutdown</li>
   <li>Monetary compensation - No compensation for economic, social and psychological loss (TISP, Consumer, Platforms, startups etc.)</li>
-</ol>
+</ul>
 # 2)	Why is Regulatory Intervention needed in the Context of Internet Shutdown?
 
 •	Address a significant market failure - Negative externalities of Internet shutdown, information Asymmetry due to internet shutdown
@@ -38,12 +38,12 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
 # 3)	Approach of Regulatory Impact Analysis (StakeHolders)
 
 3.1	Identification of the parties having economic impacts due to internet shutdown
-<ol>
+<ul>
 <li> Citizens (Infotainment, Education, Health etc.)</li>
 <li> TISP (Telecom & Internet Service Providers)</li>
 <li> E- Businesses (Press, OTT Services, e-Commerce platforms etc, eduTech, HealthTech, Startups etc.)</li>
   <li> State</li>
-  </ol>
+  </ul>
 
 3.2	Identification of independent variables leading to economic impacts
 
@@ -70,16 +70,18 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
 
 As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.
 The 10 states selected for our analysis are as follows:
-1.	Jammu and Kashmir
-2.	Maharashtra
-3.	West Bengal
-4.	Andhra Pradesh
-5.	Madhya Pradesh
-6.	Uttar Pradesh
-7.	Meghalaya
-8.	Manipur
-9.	Rajasthan
-10.	Arunachal Pradesh
+<ol>
+  <li>Jammu and Kashmir</li>
+  <li>Maharashtra</li>
+  <li>West Bengal</li>
+  <li>Andhra Pradesh</li>
+  <li>Madhya Pradesh</li>
+  <li>Uttar Pradesh</li>
+  <li>Meghalaya</li>
+  <li>Manipur</li>
+  <li>Rajasthan</li>
+  <li>Arunachal Pradesh</li>
+</ol>
 
 
 4.1	Datasets
