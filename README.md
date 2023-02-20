@@ -3,63 +3,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<--<style>
-		body {
-			font-family: Arial, sans-serif;
-			color: #333;
-			margin: 0;
-			padding: 0;
-		}
+  <!--
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+  
+    header {
+      background-color: #0072C6;
+      color: #FFF;
+      padding: 20px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  
+    h1 {
+      font-size: 36px;
+      margin: 0;
+      line-height: 1.2;
+    }
+  </style>
+  -->
+</head>
 
-		header {
-			background-color: #0072C6;
-			color: #FFF;
-			padding: 20px;
-			text-align: center;
-			margin-bottom: 20px;
-		}
-
-		h1 {
-			font-size: 36px;
-			margin: 0;
-			line-height: 1.2;
-		}
-
-		h2 {
-			font-size: 24px;
-			margin-top: 40px;
-			margin-bottom: 20px;
-			line-height: 1.2;
-		}
-
-		p {
-			font-size: 16px;
-			line-height: 1.5;
-			margin-bottom: 20px;
-		}
-
-		.container {
-			max-width: 800px;
-			margin: 0 auto;
-			padding: 0 20px;
-		}
-
-		ul {
-			margin-bottom: 20px;
-		}
-
-		li {
-			margin-bottom: 10px;
-		}
-
-		.highlight {
-			background-color: #FCD116;
-			padding: 3px 5px;
-			border-radius: 3px;
-		}
-		
-	</style>
-	-->
 </head>
 <body>
 	<header>
