@@ -53,20 +53,12 @@
 			margin-bottom: 10px;
 		}
 
-		.bold {
-			font-weight: bold;
-		}
-
 		.highlight {
 			background-color: #FCD116;
 			padding: 3px 5px;
 			border-radius: 3px;
 		}
-
-	
-		.btn:hover {
-			background-color: #3E8E41;
-		}
+		
 	</style>
 </head>
 <body>
@@ -78,9 +70,6 @@
 		<h2>Summary</h2>
 		<p>India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). 
 </p>
-
-
-    <h2>	Introduction </h2>
 
 
 <h3>What is Internet Shutdown</h3>
@@ -100,9 +89,10 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li>Monetary compensation - No compensation for economic, social and psychological loss (TISP, Consumer, Platforms, startups etc.)</li>
 </ul>
 
-<h3>Approach of Regulatory Impact Analysis (StakeHolders)</h3>
+<h2>Approach of Regulatory Impact Analysis (StakeHolders)</h2>
 
-Identification of the parties having economic impacts due to internet shutdown
+<h3>Identification of the parties having economic impacts due to internet shutdown</h3>
+		
 <ul>
 <li> Citizens (Infotainment, Education, Health etc.)</li>
 <li> TISP (Telecom & Internet Service Providers)</li>
@@ -237,9 +227,7 @@ The economic loss to citizens due to internet shutdowns in the 10 states analyze
 		</ul>
 		<p>Overall, these recommendations aim to balance the need for internet shutdowns with the need to protect the rights of citizens and businesses. They will help ensure that any internet shutdowns in
 
-7) Conclusion
+<h2>Conclusion<h2>
+<div class="container">
 
-  The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.
-
-		
-
+<p>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</p>
