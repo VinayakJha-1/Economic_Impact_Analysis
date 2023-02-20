@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Economic Impact of Internet Shutdowns in India</title>
 	<style>
+	/*
 		body {
 			font-family: Arial, sans-serif;
 			color: #333;
@@ -58,6 +58,7 @@
 			padding: 3px 5px;
 			border-radius: 3px;
 		}
+	*/
 		
 	</style>
 </head>
