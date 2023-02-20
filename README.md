@@ -72,11 +72,9 @@ The 10 states selected for our analysis are as follows:
   <li>Arunachal Pradesh</li>
 </ol>
 
-
 4.1	Datasets
 
-
-# 5)	Calculating Economic Impact
+Calculating Economic Impact
 
 5.1	Telco Dataset
 
@@ -172,4 +170,5 @@ Based on the findings, the following recommendations were made to address the ga
 • Provision for periodic review of internet shutdown orders and extension of review period beyond 5 days if required
 
 7) Conclusion
-The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.
+
+  The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.
