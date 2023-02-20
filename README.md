@@ -197,6 +197,5 @@ The economic loss to Telecom Service Providers due to internet shutdowns in the 
 		<p>Overall, these recommendations aim to balance the need for internet shutdowns with the need to protect the rights of citizens and businesses. They will help ensure that any internet shutdowns in
 
 <h2>Conclusion<h2>
-<div class="container">
 
 <p>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</p>
