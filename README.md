@@ -19,6 +19,12 @@
       text-align: center;
       margin-bottom: 20px;
     }
+    
+    .highlight {
+			background-color: #FCD116;
+			padding: 3px 5px;
+			border-radius: 3px;
+		}
   
     h1 {
       font-size: 36px;
