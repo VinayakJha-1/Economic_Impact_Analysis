@@ -6,7 +6,6 @@ A QUANTITATIVE ANALYSIS
 June, 2022
 By Vinayak and Sandeep
 
-With inputs from Prof. V Sridhar 
 
 # 1)	Introduction
 
