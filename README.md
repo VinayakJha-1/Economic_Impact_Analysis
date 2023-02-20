@@ -53,7 +53,8 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
 3.3	Benefit Cost Analysis
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
-  <ul> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
+  <ll> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
+</ul>
 
 # 4)	Data Analysis
 
