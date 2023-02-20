@@ -127,7 +127,7 @@ The 10 states selected for our analysis are as follows:
   <li><div class="highlight"><p>Total Revenue realization by TSP per Hour (in Rs) in 2020 in each affected state=  <b>Rs. 67,329,676</b></li>
   <li><div class="highlight"><p>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 in USD = Rs. 154,136,440 / 75 = <b>$2,055,125.87</b></div> </li>
 </ul>
-<h3>Calculations:</h3>
+<h3> Reference Calculations:</h3>
 <ul>
   <li>
     Total data usage per month in 10 states in 2020 =<br>
