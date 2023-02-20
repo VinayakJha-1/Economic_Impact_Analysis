@@ -1,21 +1,93 @@
 # Economic_Impact_Analysis
 
-ECONOMIC IMPACT ANALYSIS OF INTERNET SHUTDOWN IN INDIA 
-A QUANTITATIVE ANALYSIS
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Economic Impact of Internet Shutdowns in India</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			color: #333;
+			margin: 0;
+			padding: 0;
+		}
 
-June, 2022
-By Vinayak and Sandeep
+		header {
+			background-color: #0072C6;
+			color: #FFF;
+			padding: 20px;
+			text-align: center;
+			margin-bottom: 20px;
+		}
+
+		h1 {
+			font-size: 36px;
+			margin: 0;
+			line-height: 1.2;
+		}
+
+		h2 {
+			font-size: 24px;
+			margin-top: 40px;
+			margin-bottom: 20px;
+			line-height: 1.2;
+		}
+
+		p {
+			font-size: 16px;
+			line-height: 1.5;
+			margin-bottom: 20px;
+		}
+
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 0 20px;
+		}
+
+		ul {
+			margin-bottom: 20px;
+		}
+
+		li {
+			margin-bottom: 10px;
+		}
+
+		.bold {
+			font-weight: bold;
+		}
+
+		.highlight {
+			background-color: #FCD116;
+			padding: 3px 5px;
+			border-radius: 3px;
+		}
+
+	
+		.btn:hover {
+			background-color: #3E8E41;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Economic Impact of Internet Shutdowns in India By Vinayak and Sandeep</h1>
+    <h3> 	June, 2022</h3>
+	</header>
+	<div class="container">
+		<h2>Summary</h2>
+		<p>India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). 
+</p>
 
 
-# 1)	Introduction
+    <h2>	Introduction </h2>
 
-India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). 
 
-What is Internet Shutdown
+<h3>What is Internet Shutdown</h3>
 
-According to Access now 2018, “An internet shutdown is an intentional disruption of Internet-based communications, rendering them inaccessible or effectively unavailable, for a specific population, location, or mode of access, often to exert control over the flow of information.” 
+<p>According to Access now 2018, “An internet shutdown is an intentional disruption of Internet-based communications, rendering them inaccessible or effectively unavailable, for a specific population, location, or mode of access, often to exert control over the flow of information.” <p>
 
-<b>Gaps in existing regulation</b>
+<h3>Gaps in existing regulation</h3>
 
 Through analysis of secondary Data sources (Suspension of Telecom Services/Internet and Its impact, standing committee on C&IT 2021-22) and other sources, following gaps are identified in the present regulations governing Internet shutdown in India:
 <ul>
@@ -28,9 +100,9 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li>Monetary compensation - No compensation for economic, social and psychological loss (TISP, Consumer, Platforms, startups etc.)</li>
 </ul>
 
-<b>Approach of Regulatory Impact Analysis (StakeHolders)</b>
+<h3>Approach of Regulatory Impact Analysis (StakeHolders)</h3>
 
-3.1	Identification of the parties having economic impacts due to internet shutdown
+Identification of the parties having economic impacts due to internet shutdown
 <ul>
 <li> Citizens (Infotainment, Education, Health etc.)</li>
 <li> TISP (Telecom & Internet Service Providers)</li>
@@ -38,7 +110,7 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li> State</li>
   </ul>
 
-<b>	Identification of independent variables leading to economic impacts</b>
+<h3>	Identification of independent variables leading to economic impacts</h3>
 
 <ul>
   <li>Time of internet shutdown (Hours/Days)</li>
@@ -49,15 +121,16 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li>	Digital financial transactions in the state</li>
   </ul>
 
-3.3	Benefit Cost Analysis
+<h2> Benefit Cost Analysis</h2>
+    
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
   <ll> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
 </ul>
 
-# 4)	Data Analysis
+    <h2>Data Analysis</h2>
 
-As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.
+<p>As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.</p>
 The 10 states selected for our analysis are as follows:
 <ol>
   <li>Jammu and Kashmir</li>
@@ -72,15 +145,15 @@ The 10 states selected for our analysis are as follows:
   <li>Arunachal Pradesh</li>
 </ol>
 
-4.1	Datasets
+<h3>Datasets</h3>
 
-Calculating Economic Impact
+<h4>Calculating Economic Impact</h4>
 
-5.1	Telco Dataset
+<b>Telco Dataset</b>
 
-Objective - To calculate the economic loss (revenue) to Telecom Service Providers due to Internet Shutdown.
+<p>Objective - To calculate the economic loss (revenue) to Telecom Service Providers due to Internet Shutdown.</p>
 
-Assumption - Revenue loss due to wireless internet services (3G/4G) only considered. Fixed line broadband is not considered. Only revenue loss is calculated. Net loss is not calculated.
+<p>Assumption - Revenue loss due to wireless internet services (3G/4G) only considered. Fixed line broadband is not considered. Only revenue loss is calculated. Net loss is not calculated.</p>
 
 Input Variables - Given the following variables from the dataset:
 1.	No Internet users in the affected state
@@ -123,9 +196,9 @@ Calculations:
 
 5.3	State GDP Data from RBI
 
-Objective: To calculate the economic loss (net) to state GDP due to Internet Shutdown.
+    <p>Objective: To calculate the economic loss (net) to state GDP due to Internet Shutdown.</p>
 
-Assumption: State GDP is the cumulation of multiple factors representing the formal and informal sectors and activities. In our calculation, we have considered the contribution of the Digital economy on state GDP. The contribution of the Digital economy on the country's GDP was 7.7% in 2020.
+<p>Assumption: State GDP is the cumulation of multiple factors representing the formal and informal sectors and activities. In our calculation, we have considered the contribution of the Digital economy on state GDP. The contribution of the Digital economy on the country's GDP was 7.7% in 2020.</p>
 
 Input variables: 
 
@@ -149,11 +222,11 @@ After conducting the economic impact analysis, the following key findings were d
 
 6.1 Loss to Telecom Service Providers
 
-The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million).
+The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to  INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million).
 
 6.2 Loss to E-Businesses
 
-The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).
+<p>The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).
 
 6.3 Loss to Citizens
 
