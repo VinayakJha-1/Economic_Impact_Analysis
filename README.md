@@ -115,12 +115,12 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
     <p> Check report for details</p>
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
-  <ll> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
+ <li> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
 </ul>
 
 <p>As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.</p>
 The 10 states selected for our analysis are as follows:
-<ol>
+<ul>
   <li>Jammu and Kashmir</li>
   <li>Maharashtra</li>
   <li>West Bengal</li>
@@ -131,7 +131,7 @@ The 10 states selected for our analysis are as follows:
   <li>Manipur</li>
   <li>Rajasthan</li>
   <li>Arunachal Pradesh</li>
-</ol>
+</ul>
 
 <h2>Datasets</h2>
 
@@ -210,13 +210,13 @@ The 10 states selected for our analysis are as follows:
 
 The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to  INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million).
 
-6.2 Loss to E-Businesses
+<h2>Loss to E-Businesses</h2>
 
 <p>The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).
 
-6.3 Loss to Citizens
+<h2>Loss to Citizens</h2>
 
-The economic loss to citizens due to internet shutdowns in the 10 states analyzed amounted to INR 47,065 crore (approximately USD 6.3 billion) in 2020. The loss was the highest in Uttar Pradesh at INR 11,656 crore (approximately USD 1.5 billion).
+<p>The economic loss to citizens due to internet shutdowns in the 10 states analyzed amounted to INR 47,065 crore (approximately USD 6.3 billion) in 2020. The loss was the highest in Uttar Pradesh at INR 11,656 crore (approximately USD 1.5 billion).</p>
 
 <h2>Recommendations</h2>
 		<ul>
