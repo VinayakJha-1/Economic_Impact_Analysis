@@ -154,7 +154,7 @@ The 10 states selected for our analysis are as follows:
   </li>
 </ul>
 
-<div class="highlight">Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 in USD = Rs. 154,136,440 / 75 = $2,055,125.87</div> 
+<div class="highlight"><p>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 in USD = Rs. 154,136,440 / 75 = <b>$2,055,125.87</b></p></div> 
 
 	
 <h2>dComm Dataset - Digital Commerce</h2>
