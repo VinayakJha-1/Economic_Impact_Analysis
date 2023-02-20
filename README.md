@@ -19,14 +19,15 @@ According to Access now 2018, “An internet shutdown is an intentional disrupti
 1.3	Gaps in existing regulation
 
 Through analysis of secondary Data sources (Suspension of Telecom Services/Internet and Its impact, standing committee on C&IT 2021-22) and other sources, following gaps are identified in the present regulations governing Internet shutdown in India:
-•	No public consultation before enacting the Internet Shutdown law 2017
-•	Definition of Inevitable circumstance - clear definition of conditions in which Internet Shutdown can be imposed by the state
-•	Process of Review and power to reverse shutdown - No clear definition of process to be followed by review committee before and after imposing the internet shutdown
-•	Review period - No rationale of fixing review within 5 days of imposing shutdown
-•	Composition of Review committee - Non-inclusion of non-executive members in the review committee (Review is done by officials which are working under the same government).
-•	Redressal mechanism - No redressal mechanism to challenge internet shutdown
-•	Monetary compensation - No compensation for economic, social and psychological loss (TISP, Consumer, Platforms, startups etc.)
-
+<ol>
+  <li>No public consultation before enacting the Internet Shutdown law 2017</li>
+  <li>Definition of Inevitable circumstance - clear definition of conditions in which Internet Shutdown can be imposed by the state</li>
+  <li>Process of Review and power to reverse shutdown - No clear definition of process to be followed by review committee before and after imposing the internet shutdown</li>
+  <li>Review period - No rationale of fixing review within 5 days of imposing shutdown</li>
+  <li>Composition of Review committee - Non-inclusion of non-executive members in the review committee (Review is done by officials which are working under the same government)</li>
+  <li>Redressal mechanism - No redressal mechanism to challenge internet shutdown</li>
+  <li>Monetary compensation - No compensation for economic, social and psychological loss (TISP, Consumer, Platforms, startups etc.)</li>
+</ol>
 # 2)	Why is Regulatory Intervention needed in the Context of Internet Shutdown?
 
 •	Address a significant market failure - Negative externalities of Internet shutdown, information Asymmetry due to internet shutdown
@@ -37,11 +38,12 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
 # 3)	Approach of Regulatory Impact Analysis (StakeHolders)
 
 3.1	Identification of the parties having economic impacts due to internet shutdown
-
-•	Citizens (Infotainment, Education, Health etc.)
-•	TISP (Telecom & Internet Service Providers)
-•	E- Businesses (Press, OTT Services, e-Commerce platforms etc, eduTech, HealthTech, Startups etc.)
-•	State
+<ol>
+<li> Citizens (Infotainment, Education, Health etc.)</li>
+<li> TISP (Telecom & Internet Service Providers)</li>
+<li> E- Businesses (Press, OTT Services, e-Commerce platforms etc, eduTech, HealthTech, Startups etc.)</li>
+  <li> State</li>
+  </ol>
 
 3.2	Identification of independent variables leading to economic impacts
 
@@ -153,6 +155,30 @@ Calculation:
 2.	Total Net GDP loss due to Internet Shutdown in 2020 = 
 
 
-# 6)	Conclusion -
+6) Key Findings
+After conducting the economic impact analysis, the following key findings were discovered:
 
-The analysis shows an approximate USD 2.75 Billion revenue loss to Telecom and digital businesses due to Internet shutdown in 2020. It also shows a net USD 1.25 Billion loss to national GDP in 2020 due to the Internet shutdown. The Internet shutdown is a state matter associated with law and order, integrity and public safety. There is a significant economic impact of such shutdowns as shown by our analysis and hence Government should formulate policies to provide economic compensation due to state-imposed shutdowns in the form of reduced levies and taxes.
+6.1 Loss to Telecom Service Providers
+
+The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million).
+
+6.2 Loss to E-Businesses
+
+The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).
+
+6.3 Loss to Citizens
+
+The economic loss to citizens due to internet shutdowns in the 10 states analyzed amounted to INR 47,065 crore (approximately USD 6.3 billion) in 2020. The loss was the highest in Uttar Pradesh at INR 11,656 crore (approximately USD 1.5 billion).
+
+6.4 Recommendations
+
+Based on the findings, the following recommendations were made to address the gaps in the current regulations governing internet shutdowns:
+
+• Constitution of an independent review committee comprising non-executive members to review internet shutdown orders
+• Establishment of a redressal mechanism to challenge internet shutdown orders
+• Introduction of monetary compensation for economic, social, and psychological losses suffered due to internet shutdowns
+• Provision for public consultation before enacting internet shutdown laws and clear definition of "inevitable circumstance" for imposing internet shutdowns
+• Provision for periodic review of internet shutdown orders and extension of review period beyond 5 days if required
+
+7) Conclusion
+The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.
