@@ -128,13 +128,32 @@ The 10 states selected for our analysis are as follows:
   <li>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020</li>
 </ul>
 <h3>Calculation:</h3>
-<ul>
-  <li>Total data usage per month in 10 states in 2020 = </li>
-  <li>Total Data Usage per Hour (GB) in 10 states in 2020 = </li>
-  <li>Total Revenue realization per Hour (in Rs) in 2020 = </li>
-  <li>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 = </li>
-</ul>
-		
+<ol>
+  <li>
+    Total data usage per month in 10 states in 2020 =<br>
+    No of Internet users in 10 states * Average Data usage per user per month (in GigaBytes - GB) for the country<br>
+    = 374.745 million * 11.76 GB
+  </li>
+  <li>
+    Total Data Usage per Hour (GB) in 10 states in 2020 =<br>
+    (Total data usage per month in 10 states * 10<sup>6</sup>) / (30 * 24)<br>
+    = 6,180,233 GB
+  </li>
+  <li>
+    Total Revenue realization per Hour (in Rs) in 2020 =<br>
+    Total Data Usage per user per Hour (GB) in 10 states in 2020 * Average Wireless Data Revenue realization per GB for the country<br>
+    = 6,180,233 GB * Rs. 10.93 = Rs. 67,329,676
+  </li>
+  <li>
+    Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 =<br>
+    Total Revenue realization per Hour (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states<br>
+    = Rs. 67,329,676 * 8,927 * (10.3/374.745) = Rs. 154,136,440
+  </li>
+</ol>
+
+<p>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 in USD = Rs. 154,136,440 / 75 = $2,055,125.87</p>
+
+	
 <h2>dComm Dataset - Digital Commerce</h2>
 <p>Objective - To calculate the economic loss (revenue) to Digital Platforms due to Internet shutdown.</p>
 
