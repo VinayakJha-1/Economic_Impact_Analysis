@@ -10,7 +10,7 @@ With inputs from Prof. V Sridhar
 
 # 1)	Introduction
 
-India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections. to achieving policy goals, for example by shutting down the Internet to stop students cheating in exams in states like Bihar and Jaipur (Newslaundry,2021). 
+India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). 
 
 1.1	What is Internet Shutdown
 
