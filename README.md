@@ -12,11 +12,11 @@ With inputs from Prof. V Sridhar
 
 India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). 
 
-1.1	What is Internet Shutdown
+What is Internet Shutdown
 
 According to Access now 2018, “An internet shutdown is an intentional disruption of Internet-based communications, rendering them inaccessible or effectively unavailable, for a specific population, location, or mode of access, often to exert control over the flow of information.” 
 
-1.3	Gaps in existing regulation
+<b>Gaps in existing regulation</b>
 
 Through analysis of secondary Data sources (Suspension of Telecom Services/Internet and Its impact, standing committee on C&IT 2021-22) and other sources, following gaps are identified in the present regulations governing Internet shutdown in India:
 <ul>
@@ -28,14 +28,8 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li>Redressal mechanism - No redressal mechanism to challenge internet shutdown</li>
   <li>Monetary compensation - No compensation for economic, social and psychological loss (TISP, Consumer, Platforms, startups etc.)</li>
 </ul>
-# 2)	Why is Regulatory Intervention needed in the Context of Internet Shutdown?
 
-•	Address a significant market failure - Negative externalities of Internet shutdown, information Asymmetry due to internet shutdown
-•	Promote certain features of a market - universal access of information is hampered due to internet shutdown
-•	Economic considerations - low consumer surplus, low producer surplus
-•	Freedom of Speech considerations
-
-# 3)	Approach of Regulatory Impact Analysis (StakeHolders)
+<b>Approach of Regulatory Impact Analysis (StakeHolders)</b>
 
 3.1	Identification of the parties having economic impacts due to internet shutdown
 <ul>
@@ -45,26 +39,21 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   <li> State</li>
   </ul>
 
-3.2	Identification of independent variables leading to economic impacts
+<b>	Identification of independent variables leading to economic impacts</b>
 
-•	Time of internet shutdown (Hours/Days)
-•	Cost of internet data (perGB/prepaid/postpaid)
-•	Number of Internet subscribers who are affected
-•	Geography of internet shutdown (Location/state) - per capita income
-•	Average data consumption per user in the location/state
-•	Digital financial transactions in the state
+<ul>
+  <li>Time of internet shutdown (Hours/Days)</li>
+  <li> Cost of internet data (perGB/prepaid/postpaid)</li>
+ <li>Number of Internet subscribers who are affected</li>
+  <li>Geography of internet shutdown (Location/state) - per capita income</li>
+  <li>Average data consumption per user in the location/state</li>
+  <li>	Digital financial transactions in the state</li>
+  </ul>
 
 3.3	Benefit Cost Analysis
-
-3.3.1	Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation):
-
-•	TISP and business keep bearing the loss. In absence of monetary compensation, the firms won’t be able to recover the Average Variable cost (in the short run) and Average Total cost (in the long run will) and shutdown their business. To sustain, they will increase the internet/product cost. This will affect the consumer as they have to pay more for internet access. Consumer surplus will be very low.
-•	Consumer and producer surplus will increase
-
-3.3.2	Risk of changing the existing Internet shutdown regulation (Cost to change the regulation):
-
-•	State has to compensate the TISP and business for the loss incurred due to the state-imposed internet shutdown. This will affect the state exchequers. State will try to recover this expenditure through extra tax etc.
-•	States can compensate the TSPs by reducing the levy on their revenue, by reducing the tax on e-commerce firms, by reducing financial transaction charges for financial institutions etc.
+<ul>
+<li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
+  <ul> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
 
 # 4)	Data Analysis
 
