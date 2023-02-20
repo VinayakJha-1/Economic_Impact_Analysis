@@ -143,9 +143,7 @@ The 10 states selected for our analysis are as follows:
   <li>Arunachal Pradesh</li>
 </ol>
 
-<h3>Datasets</h3>
-
-<h4>Calculating Economic Impact</h4>
+<h2>Datasets</h2>
 
 <b>Telco Dataset</b>
 
@@ -153,70 +151,70 @@ The 10 states selected for our analysis are as follows:
 
 <p>Assumption - Revenue loss due to wireless internet services (3G/4G) only considered. Fixed line broadband is not considered. Only revenue loss is calculated. Net loss is not calculated.</p>
 
-Input Variables - Given the following variables from the dataset:
-1.	No Internet users in the affected state
-2.	Average Data usage per user per month (in GigaBytes - GB) for the country
-3.	Average Wireless Data revenue realization per GB for the country
+<h3>Input Variables</h3>
+<ul>
+  <li>No Internet users in the affected state</li>
+  <li>Average Data usage per user per month (in GigaBytes - GB) for the country</li>
+  <li>Average Wireless Data revenue realization per GB for the country</li>
+</ul>
+<h3>Output</h3>
+<ul>
+  <li>Total Revenue realization by TSP per Hour (in Rs) in 2020 in each affected state</li>
+  <li>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020</li>
+</ul>
+<h3>Calculation:</h3>
+<ul>
+  <li>Total data usage per month in 10 states in 2020 = </li>
+  <li>Total Data Usage per Hour (GB) in 10 states in 2020 = </li>
+  <li>Total Revenue realization per Hour (in Rs) in 2020 = </li>
+  <li>Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 = </li>
+</ul>
+		
+<h2>dComm Dataset - Digital Commerce</h2>
+<p>Objective - To calculate the economic loss (revenue) to Digital Platforms due to Internet shutdown.</p>
 
-Output:
+<p>Assumption - Majority of digital platforms and brick and mortar outlets provide PhonePe option for paying for goods and services. PhonePe is the market leader for digital financial transactions with pan India coverage. The volume and value of transactions on PhonePe reflects economic activities of digital platforms. The offline transactions such as Cash on delivery and direct cash transaction at outlets are not considered in the calculation. Only revenue loss is calculated. Net loss is not calculated.</p>
 
-1.	Total Revenue realization by TSP per Hour (in Rs) in 2020 in each affected state
-2.	Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020
+<h3>Input variables:</h3>
+<ul>
+  <li>No Transaction Per Hour in 2020</li>
+  <li>Value of The Transaction Per Hour (Rs) in 2020</li>
+</ul>
+<h3>Output:</h3>
+<ul>
+  <li>Total value of Digital Transaction Per Hour in affected States in 2020</li>
+  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020</li>
+</ul>
+<h3>Calculations:</h3>
+<ul>
+  <li>Total value of Digital Transaction Per Hour in affected States in 2020 = </li>
+  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 = </li>
+</ul>
+		
+<h2>State GDP Data from RBI</h2>
 
-Calculation: 
-
-1.	Total data usage per month in 10 states in 2020 = 
-2.	Total Data Usage per Hour (GB) in 10 states in 2020 = 
-3.	Total Revenue realization per Hour (in Rs) in 2020 = 
-4.	Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 = 
-
-5.2	dComm Dataset - Digital Commerce
-
-Objective - To calculate the economic loss (revenue) to Digital Platforms due to Internet shutdown.
-
-Assumption - Majority of digital platforms and brick and mortar outlets provide PhonePe option for paying for goods and services. PhonePe is the market leader for digital financial transactions with pan India coverage. The volume and value of transactions on PhonePe reflects economic activities of digital platforms. The offline transactions such as Cash on delivery and direct cash transaction at outlets are not considered in the calculation. Only revenue loss is calculated. Net loss is not calculated.
-
-Input variables: 
-
-Given the following variables from the dataset:
-1.	No Transaction Per Hour in 2020
-2.	Value of The Transaction Per Hour (Rs) in 2020
-
-Output: 
-
-1.	Total value of Digital Transaction Per Hour in affected States in 2020
-2.	Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 
-
-Calculations:
-
-1.	Total value of Digital Transaction Per Hour in affected States in 2020 = 
-2.	Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 = 
-
-5.3	State GDP Data from RBI
-
-    <p>Objective: To calculate the economic loss (net) to state GDP due to Internet Shutdown.</p>
+<p>Objective: To calculate the economic loss (net) to state GDP due to Internet Shutdown.</p>
 
 <p>Assumption: State GDP is the cumulation of multiple factors representing the formal and informal sectors and activities. In our calculation, we have considered the contribution of the Digital economy on state GDP. The contribution of the Digital economy on the country's GDP was 7.7% in 2020.</p>
 
-Input variables: 
+<h3>Input variables:</h3>
+<ul>
+  <li>State GDP per capita in Rs in 2020</li>
+  <li>State Population in 2020</li>
+</ul>
+<h3>Output:</h3>
+<ul>
+  <li>Total state GDP Per Hour in affected States in 2020</li>
+  <li>Total Net GDP loss due to Internet Shutdown in 2020</li>
+</ul>
+<h3>Calculation:</h3>
+<ul>
+  <li>Total state GDP Per Hour in affected States in 2020 = </li>
+  <li>Total Net GDP loss due to Internet Shutdown in 2020 = </li>
+</ul>
 
-Given the following variables from the dataset:
-1.	State GDP per capita in Rs in 2020
-2.	State Population in 2020
-
-Output:
-
-1.	Total state GDP Per Hour in affected States in 2020
-2.	Total Net GDP loss due to Internet Shutdown in 2020 
-
-Calculation:
-
-1.	Total state GDP Per Hour in affected States in 2020 = 
-2.	Total Net GDP loss due to Internet Shutdown in 2020 = 
-
-
-6) Key Findings
-After conducting the economic impact analysis, the following key findings were discovered:
+<h2> Key Findings</h2>
+<p>After conducting the economic impact analysis, the following key findings were discovered:</p?
 
 6.1 Loss to Telecom Service Providers
 
