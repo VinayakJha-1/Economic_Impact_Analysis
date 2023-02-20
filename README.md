@@ -122,13 +122,11 @@ Identification of the parties having economic impacts due to internet shutdown
   </ul>
 
 <h2> Benefit Cost Analysis</h2>
-    
+    <p> Check report for details</p>
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
   <ll> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
 </ul>
-
-    <h2>Data Analysis</h2>
 
 <p>As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.</p>
 The 10 states selected for our analysis are as follows:
@@ -232,16 +230,18 @@ The economic loss to Telecom Service Providers due to internet shutdowns in the 
 
 The economic loss to citizens due to internet shutdowns in the 10 states analyzed amounted to INR 47,065 crore (approximately USD 6.3 billion) in 2020. The loss was the highest in Uttar Pradesh at INR 11,656 crore (approximately USD 1.5 billion).
 
-6.4 Recommendations
-
-Based on the findings, the following recommendations were made to address the gaps in the current regulations governing internet shutdowns:
-
-• Constitution of an independent review committee comprising non-executive members to review internet shutdown orders
-• Establishment of a redressal mechanism to challenge internet shutdown orders
-• Introduction of monetary compensation for economic, social, and psychological losses suffered due to internet shutdowns
-• Provision for public consultation before enacting internet shutdown laws and clear definition of "inevitable circumstance" for imposing internet shutdowns
-• Provision for periodic review of internet shutdown orders and extension of review period beyond 5 days if required
+<h2>Recommendations</h2>
+		<ul>
+			<li><span class="bold">Establishment of an independent review committee:</span> A committee should be established to review the necessity of internet shutdowns and ensure that they are proportionate and in accordance with the law.</li>
+			<li><span class="bold">Provision for public consultation:</span> The public should be given an opportunity to provide feedback on any proposed internet shutdowns.</li>
+			<li><span class="bold">Monetary compensation:</span> Citizens and businesses affected by internet shutdowns should be provided with appropriate compensation.</li>
+			<li><span class="bold">Redressal mechanism:</span> A redressal mechanism should be put in place to address the negative effects of internet shutdowns on citizens and businesses.</li>
+		</ul>
+		<p>Overall, these recommendations aim to balance the need for internet shutdowns with the need to protect the rights of citizens and businesses. They will help ensure that any internet shutdowns in
 
 7) Conclusion
 
   The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.
+
+		
+
