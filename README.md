@@ -2,8 +2,8 @@
 
 <!DOCTYPE html>
 <html>
-<head><!--
-	<style>
+<head>
+	<--<style>
 		body {
 			font-family: Arial, sans-serif;
 			color: #333;
@@ -59,7 +59,7 @@
 		}
 		
 	</style>
--->
+	-->
 </head>
 <body>
 	<header>
