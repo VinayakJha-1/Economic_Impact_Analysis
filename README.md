@@ -150,29 +150,29 @@ The 10 states selected for our analysis are as follows:
   <li>
     Total data usage per month in 10 states in 2020 =<br>
     No of Internet users in 10 states * Average Data usage per user per month (in GigaBytes - GB) for the country<br>
-    = 374.745 million * 11.76 GB<br>
-    <span style="color: green">Result: 4,404,018,200 GB per month</span>
+    = 374.745 million * 11.76 GB<br><br>
+	  <span style="color: green"><b>Result: 4,404,018,200 GB per month</b></span>
   </li>
   <br>
   <li>
     Total Data Usage per Hour (GB) in 10 states in 2020 =<br>
     (Total data usage per month in 10 states * 10<sup>6</sup>) / (30 * 24)<br>
-    = 6,180,233 GB<br>
-    <span style="color: green">Result: 6,180,233 GB per hour</span>
+    = 6,180,233 GB<br><br>
+    <span style="color: green"><b>Result: 6,180,233 GB per hour</b></span>
   </li>
   <br>
   <li>
     Total Revenue realization per Hour (in Rs) in 2020 =<br>
     Total Data Usage per user per Hour (GB) in 10 states in 2020 * Average Wireless Data Revenue realization per GB for the country<br>
-    = 6,180,233 GB * Rs. 10.93 = Rs. 67,329,676<br>
-    <span style="color: green">Result: Rs. 67,329,676 per hour</span>
+    = 6,180,233 GB * Rs. 10.93 = Rs. 67,329,676<br><br>
+	  <span style="color: green"><b>Result: Rs. 67,329,676 per hour</b></span>
   </li>
   <br>
   <li>
     Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 =<br>
     Total Revenue realization per Hour (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states<br>
-    = Rs. 67,329,676 * 8,927 * (10.3/374.745) = Rs. 154,136,440<br>
-    <span style="color: green">Result: Rs. 154,136,440</span>
+    = Rs. 67,329,676 * 8,927 * (10.3/374.745) = Rs. 154,136,440<br><br>
+	  <span style="color: green"><b>Result:</b> Rs. 154,136,440</span>
   </li>
 </ul>
 
@@ -202,8 +202,8 @@ The 10 states selected for our analysis are as follows:
   <li>
     Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 =<br>
     Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states =<br>
-    77 Cr * 8,927 * (10.3/374.745) = 2.53 Billion USD (1 USD = 75 INR)<br>
-    <span style="color: green">Result: Rs. 2.53 Billion USD (or Rs. 189.75 Cr) lost due to internet shutdown</span>
+    77 Cr * 8,927 * (10.3/374.745) = 2.53 Billion USD (1 USD = 75 INR)<br><br>
+	  <span style="color: green"><b>Result: Rs. 2.53 Billion USD (or Rs. 189.75 Cr) </b></span>
   </li>
 </ul>
 		
@@ -231,8 +231,8 @@ The 10 states selected for our analysis are as follows:
     (State GDP per capita in Rs in 2020 * State Population in 2020)/ (365*24) 
     <br>
     = 924.86 Cr.
-    <br>
-    <span style="color: green">Result: Rs. 924.86 Cr per hour</span>
+    <br><br>
+	  <span style="color: green"><b>Result: Rs. 924.86 Cr per hour</b></span>
   </li>
   <li>
     Total Net GDP loss due to Internet Shutdown in 2020 = 
@@ -244,10 +244,9 @@ The 10 states selected for our analysis are as follows:
     1 US Dollar = 75 INR (2020) 
     <br>
     = $ 1.25 Billion
-    <br>
-   <div style="border: 1px solid green; padding: 10px;">
-    <span style="color: green">Result: $1.25 Billion</span>
-</div>
+    <br><br>
+	  
+	  <span style="color: green"><b>Result: $1.25 Billion</b></span>
   </li>
 </ul>
 		
