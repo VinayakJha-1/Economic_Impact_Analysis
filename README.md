@@ -197,11 +197,10 @@ The 10 states selected for our analysis are as follows:
 <h3>Reference Calculations:</h3>
 <ul>
   <li>
-    Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state = 77 Cr
-	 <br> <br> 
-	 
+    Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state = 77 Cr  </li>
+	 <br> <br>
 	 <span style="color: green"><b>4 - Rs. 77 Cr </b></span>
-  </li>
+
     <li>Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states =<br>
     77 Cr * 8,927 * (10.3/374.745) = 2.53 Billion USD (1 USD = 75 INR)<br><br>
 	  <span style="color: green">Using 4 <br>
