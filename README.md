@@ -169,8 +169,8 @@ The 10 states selected for our analysis are as follows:
 </ul>
 <h3>Output:</h3>
 <ul>
-  <li>Total value of Digital Transaction Per Hour in affected States in 2020</li>
-  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020</li>
+  <li>Total value of Digital Transaction Per Hour in affected States in 2020 = <strong>77 Cr</strong></li>
+  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020= <strong>2.53 Billion</strong></li>
 </ul>
 <h3>Reference Calculations:</h3>
 <ul>
