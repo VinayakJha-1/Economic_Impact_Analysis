@@ -38,7 +38,7 @@
 </head>
 <body>
 	<header>
-		<h1>Economic Impact of Internet Shutdowns in India By Vinayak and Sandeep</h1>
+		<h1>Economic Impact of Internet Shutdowns in India</h1>
     <h3> 	June, 2022</h3>
 	</header>
 	<div class="container">
@@ -221,9 +221,9 @@ The 10 states selected for our analysis are as follows:
 
 
 <ul>
-<li><b>Loss to Telecom Service Providers</b> - The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to  INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million). </li>
+<li><b>The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to  INR 454 crore (approximately USD 60.5 million) in 2020</b>. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million). </li>
 
-<li> <b>The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).</li>
+<li> <b>The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020</b>. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).</li>
 		</ul>
 
 <h2>Loss to Citizens</h2>
