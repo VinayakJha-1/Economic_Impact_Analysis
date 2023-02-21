@@ -196,10 +196,16 @@ The 10 states selected for our analysis are as follows:
 </ul>
 <h3>Reference Calculations:</h3>
 <ul>
-  <li>Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state =<br> <strong>77 Cr</strong></li><br>
-  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 =<br> Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 *<br> Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states =<br> 77 cr * 8927 * (10.3/374.745) = <strong>2.53 Billion</strong> USD (1 USD = 75 INR)</li>
+  <li>
+    Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state = 77 Cr
+  </li>
+  <li>
+    Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 =<br>
+    Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states =<br>
+    77 Cr * 8,927 * (10.3/374.745) = 2.53 Billion USD (1 USD = 75 INR)<br>
+    <span style="color: green">Result: Rs. 2.53 Billion USD (or Rs. 189.75 Cr) lost due to internet shutdown</span>
+  </li>
 </ul>
-
 		
 <h2>State GDP Data from RBI</h2>
 
@@ -219,25 +225,30 @@ The 10 states selected for our analysis are as follows:
 </ul>
 <h3>Calculation:</h3>
 <ul>
-    <li>
-        Total state GDP Per Hour in affected States in 2020 =  
-        <br>
-        (State GDP per capita in Rs in 2020 * State Population in 2020)/ (365*24) 
-        <br>
-        = 924.86 Cr.
-    </li>
-    <li>
-        Total Net GDP loss due to Internet Shutdown in 2020 = 
-        <br>
-        Total state GDP Per Hour in affected States in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total population in affected states 
-        <br>
-        = 924.86 cr * 8927 hour * (10.3/701) 
-        <br>
-        1 US Dollar = 75 INR (2020) 
-        <br>
-        = $ 1.25 Billion
-    </li>
+  <li>
+    Total state GDP Per Hour in affected States in 2020 =  
+    <br>
+    (State GDP per capita in Rs in 2020 * State Population in 2020)/ (365*24) 
+    <br>
+    = 924.86 Cr.
+    <br>
+    <span style="color: green">Result: Rs. 924.86 Cr per hour</span>
+  </li>
+  <li>
+    Total Net GDP loss due to Internet Shutdown in 2020 = 
+    <br>
+    Total state GDP Per Hour in affected States in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total population in affected states 
+    <br>
+    = 924.86 cr * 8927 hour * (10.3/701) 
+    <br>
+    1 US Dollar = 75 INR (2020) 
+    <br>
+    = $ 1.25 Billion
+    <br>
+    <span style="color: green">Result: $1.25 Billion</span>
+  </li>
 </ul>
+		
 <h2> Key Findings</h2>
 		<p>After conducting the economic impact analysis, the following key findings were discovered:</p>
 
