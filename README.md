@@ -45,6 +45,9 @@
 		<h2>Summary</h2>
 		<p>India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). The study aims to highlight the economic impact on state and its citizens as a result of internet shutdown.
 </p>
+		
+		
+<img src="https://images.unsplash.com/photo-1579619982723-542f69a8e2c2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJuZXQlMjBzaHV0dG93bnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="People holding signs with messages like 'keep the internet open' and 'don't shut us down'">
 
 
 <h3>What is Internet Shutdown</h3>
