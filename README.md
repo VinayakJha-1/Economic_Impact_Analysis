@@ -47,7 +47,11 @@
 </p>
 		
 		
-<img src="https://images.assettype.com/thequint/2018-07/1c292734-8b14-427d-a67a-0a1a2e11080d/g.jpg">
+<a href="https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour"> 
+  <img src="https://images.assettype.com/thequint/2018-07/1c292734-8b14-427d-a67a-0a1a2e11080d/g.jpg" width="500">
+</a>
+<p>Image source: <i>The Quint (2018)</i></p>
+
 
 
 <h3>What is Internet Shutdown</h3>
