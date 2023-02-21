@@ -188,6 +188,7 @@ The 10 states selected for our analysis are as follows:
 <ul>
   <li>No Transaction Per Hour in 2020</li>
   <li>Value of The Transaction Per Hour (Rs) in 2020</li>
+		</ul>
 </ul>
 <h3>Output:</h3>
 <ul>
