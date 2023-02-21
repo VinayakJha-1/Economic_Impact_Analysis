@@ -245,7 +245,9 @@ The 10 states selected for our analysis are as follows:
     <br>
     = $ 1.25 Billion
     <br>
+   <div style="border: 1px solid green; padding: 10px;">
     <span style="color: green">Result: $1.25 Billion</span>
+</div>
   </li>
 </ul>
 		
