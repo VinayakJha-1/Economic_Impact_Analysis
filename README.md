@@ -47,7 +47,7 @@
 </p>
 		
 		
-<img src="https://images.unsplash.com/photo-1579619982723-542f69a8e2c2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJuZXQlMjBzaHV0dG93bnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="People holding signs with messages like 'keep the internet open' and 'don't shut us down'">
+<img src="https://images.assettype.com/thequint/2018-07/1c292734-8b14-427d-a67a-0a1a2e11080d/g.jpg">
 
 
 <h3>What is Internet Shutdown</h3>
