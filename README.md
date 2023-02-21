@@ -171,7 +171,8 @@ The 10 states selected for our analysis are as follows:
     Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 =<br>
     Total Revenue realization per Hour (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states<br>
     = Rs. 67,329,676 * 8,927 * (10.3/374.745) = Rs. 154,136,440<br><br>
-	  <span style="color: green"><b>Using 1, 2 and 3 Result:Rs. 154,136,440 in the year 2020 </b> </span>
+	  <span style="color: green">Using 1, 2 and 3
+		  <br> <b>Result:Rs. 154,136,440 in 2020 </b> </span>
   </li>
 </ul>
 
@@ -203,7 +204,8 @@ The 10 states selected for our analysis are as follows:
     Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 =<br>
     Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states =<br>
     77 Cr * 8,927 * (10.3/374.745) = 2.53 Billion USD (1 USD = 75 INR)<br><br>
-	  <span style="color: green"><b>Result: Rs. 2.53 Billion USD (or Rs. 189.75 Cr) </b></span>
+	  <span style="color: green">Using 4 <br>
+		  <b>Result: Rs. 2.53 Billion USD (or Rs. 189.75 Cr) </b></span>
   </li>
 </ul>
 		
@@ -246,7 +248,8 @@ The 10 states selected for our analysis are as follows:
     = $ 1.25 Billion
     <br><br>
 	  
-	  <span style="color: green"><b>Using 5 Result: $1.25 Billion</b></span>
+	  <span style="color: green">Using 5 <br>
+		 <b> Result: $1.25 Billion</b></span>
   </li>
 </ul>
 		
