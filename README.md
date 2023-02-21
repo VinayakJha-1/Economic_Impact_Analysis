@@ -94,7 +94,8 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   </ul>
 
 <h2> Benefit Cost Analysis</h2>
-    <p> Check report for details</p>
+   <a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis/blob/main/Internet%20Shutdown%20Report%20(6).pdf" style="color: blue;">details</a>
+
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
  <li> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
