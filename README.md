@@ -94,7 +94,7 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   </ul>
 
 <h2> Benefit Cost Analysis</h2>
-   <a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis/blob/main/Internet%20Shutdown%20Report%20(6).pdf" style="color: blue;">details</a>
+   <a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis/blob/main/Internet%20Shutdown%20Report%20(6).pdf" style="color: blue;"> Refer report</a>
 
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
@@ -138,9 +138,13 @@ The 10 states selected for our analysis are as follows:
 <h3> Reference Calculations:</h3>
 <ul>
   <li>
-    Total data usage per month in 10 states in 2020 =<br>
+  <div>
+  <span style="font-size: 20px; font-weight: bold;">Total data usage per month in 10 states in 2020:</span><br>
+  <span style="font-size: 18px; margin-left: 20px;">
     No of Internet users in 10 states * Average Data usage per user per month (in GigaBytes - GB) for the country<br>
     = 374.745 million * 11.76 GB
+  </span>
+</div>
   </li>
 <br>
   <li>
