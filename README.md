@@ -94,7 +94,6 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   </ul>
 
 <h2> Benefit Cost Analysis</h2>
-   <a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis/blob/main/Internet%20Shutdown%20Report%20(6).pdf" style="color: blue;"> Refer report</a>
 
 <ul>
 <li> Risk of maintaining the existing Internet shutdown regulation (Benefit to change the regulation)</li>
@@ -151,28 +150,28 @@ The 10 states selected for our analysis are as follows:
     Total data usage per month in 10 states in 2020 =<br>
     No of Internet users in 10 states * Average Data usage per user per month (in GigaBytes - GB) for the country<br>
     = 374.745 million * 11.76 GB<br><br>
-	  <span style="color: green"><b>1: 4,404,018,200 GB per month</b></span>
+	  <span style="color: green"><b>1 - 4,404,018,200 GB per month</b></span>
   </li>
   <br>
   <li>
     Total Data Usage per Hour (GB) in 10 states in 2020 =<br>
     (Total data usage per month in 10 states * 10<sup>6</sup>) / (30 * 24)<br>
     = 6,180,233 GB<br><br>
-    <span style="color: green"><b>2 : 6,180,233 GB per hour</b></span>
+    <span style="color: green"><b>2 - 6,180,233 GB per hour</b></span>
   </li>
   <br>
   <li>
     Total Revenue realization per Hour (in Rs) in 2020 =<br>
     Total Data Usage per user per Hour (GB) in 10 states in 2020 * Average Wireless Data Revenue realization per GB for the country<br>
     = 6,180,233 GB * Rs. 10.93 = Rs. 67,329,676<br><br>
-	  <span style="color: green"><b>Result: Rs. 67,329,676 per hour</b></span>
+	  <span style="color: green"><b> 3 - Rs. 67,329,676 per hour</b></span>
   </li>
   <br>
   <li>
     Total Revenue Loss to TSP in affected states due to Internet Shutdown in 2020 =<br>
     Total Revenue realization per Hour (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states<br>
     = Rs. 67,329,676 * 8,927 * (10.3/374.745) = Rs. 154,136,440<br><br>
-	  <span style="color: green"><b>Using 1 and 2 Result:Rs. 154,136,440 in the year 2020 </b> </span>
+	  <span style="color: green"><b>Using 1, 2 and 3 Result:Rs. 154,136,440 in the year 2020 </b> </span>
   </li>
 </ul>
 
@@ -198,6 +197,7 @@ The 10 states selected for our analysis are as follows:
 <ul>
   <li>
     Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state = 77 Cr
+	 <br> <br> <span style="color: green"><b>4 - Rs. 77 Cr </b></span>
   </li>
   <li>
     Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 =<br>
@@ -232,7 +232,7 @@ The 10 states selected for our analysis are as follows:
     <br>
     = 924.86 Cr.
     <br><br>
-	  <span style="color: green"><b>1: Rs. 924.86 Cr per hour</b></span>
+	  <span style="color: green"><b> 5 - Rs. 924.86 Cr per hour</b></span>
   </li>
   <li>
     Total Net GDP loss due to Internet Shutdown in 2020 = 
@@ -246,7 +246,7 @@ The 10 states selected for our analysis are as follows:
     = $ 1.25 Billion
     <br><br>
 	  
-	  <span style="color: green"><b>Using 1 Result: $1.25 Billion</b></span>
+	  <span style="color: green"><b>Using 5 Result: $1.25 Billion</b></span>
   </li>
 </ul>
 		
@@ -277,3 +277,5 @@ The 10 states selected for our analysis are as follows:
 <ul>
 <li>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. </li><li>The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns.</li> <li>The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</li>
 		</ul>
+   <a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis/blob/main/Internet%20Shutdown%20Report%20(6).pdf" style="color: blue;"> Refer report</a>
+
