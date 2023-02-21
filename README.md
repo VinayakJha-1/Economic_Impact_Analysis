@@ -217,15 +217,14 @@ The 10 states selected for our analysis are as follows:
     </li>
 </ul>
 <h2> Key Findings</h2>
-<p>After conducting the economic impact analysis, the following key findings were discovered:</p?
+		<p>After conducting the economic impact analysis, the following key findings were discovered:</p>
 
-6.1 Loss to Telecom Service Providers
 
-The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to  INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million).
+<ul>
+<li><b>Loss to Telecom Service Providers</b> - The economic loss to Telecom Service Providers due to internet shutdowns in the 10 states analyzed amounted to  INR 454 crore (approximately USD 60.5 million) in 2020. The loss was the highest in Jammu and Kashmir at INR 151 crore (approximately USD 20.1 million). </li>
 
-<h2>Loss to E-Businesses</h2>
-
-<p>The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).
+<li> <b>The economic loss to E-Businesses due to internet shutdowns in the 10 states analyzed amounted to INR 217 crore (approximately USD 29 million) in 2020. The loss was the highest in Maharashtra at INR 52 crore (approximately USD 6.9 million).</li>
+		</ul>
 
 <h2>Loss to Citizens</h2>
 
@@ -241,5 +240,6 @@ The economic loss to Telecom Service Providers due to internet shutdowns in the 
 		<p>Overall, these recommendations aim to balance the need for internet shutdowns with the need to protect the rights of citizens and businesses. They will help ensure that any internet shutdowns in
 
 <h2>Conclusion</h2>
-
-<p>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. </p><p>The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns.</p> <p>The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</p>
+<ul>
+<li>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. </li><li>The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns.</li> <li>The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</li>
+		</ul>
