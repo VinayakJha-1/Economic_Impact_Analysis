@@ -174,8 +174,8 @@ The 10 states selected for our analysis are as follows:
 </ul>
 <h3>Reference Calculations:</h3>
 <ul>
-  <li>Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state = <strong>77 Cr</strong></li>
-  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 = Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states = 77 cr * 8927 * (10.3/374.745) = <strong>2.53 Billion</strong> USD (1 USD = 75 INR)</li>
+  <li>Total value of Digital Transaction Per Hour in affected States in 2020 = Sum of Value of Transaction per Hour (Rs) in 2020 of each state =<br> <strong>77 Cr</strong></li><br>
+  <li>Total Revenue Loss to Digital Commerce in affected states due to Internet Shutdown in 2020 =<br> Total value of Digital Transaction Per Hour in affected States (in Rs) in 2020 * Hours of Internet Shutdown in 2020 * ratio of affected population to total internet users in affected states =<br> 77 cr * 8927 * (10.3/374.745) = <strong>2.53 Billion</strong> USD (1 USD = 75 INR)</li>
 </ul>
 
 		
@@ -192,13 +192,13 @@ The 10 states selected for our analysis are as follows:
 </ul>
 <h3>Output:</h3>
 <ul>
-  <li>Total state GDP Per Hour in affected States in 2020</li>
-  <li>Total Net GDP loss due to Internet Shutdown in 2020</li>
+  <li>Total state GDP Per Hour in affected States in 2020 = 924.86 Cr.</li>
+  <li>Total Net GDP loss due to Internet Shutdown in 2020 = $ 1.25 Billion</li>
 </ul>
 <h3>Calculation:</h3>
 <ul>
     <li>
-        Total state GDP Per Hour in affected States in 2020 = 
+        Total state GDP Per Hour in affected States in 2020 =  
         <br>
         (State GDP per capita in Rs in 2020 * State Population in 2020)/ (365*24) 
         <br>
@@ -242,4 +242,4 @@ The economic loss to Telecom Service Providers due to internet shutdowns in the 
 
 <h2>Conclusion</h2>
 
-<p>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns. The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</p>
+<p>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. </p><p>The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns.</p> <p>The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</p>
