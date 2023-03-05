@@ -247,8 +247,7 @@ The 10 states selected for our analysis are as follows:
     = $ 1.25 Billion
     <br><br>
 	  
-	  <span style="color: green">Using 5 <br>
-		  Result : <b>$1.25 Billion</b></span>
+	  <span style="color: green">Using 5 -  Result : <b>$1.25 Billion</b></span>
   </li>
 </ul>
 		
