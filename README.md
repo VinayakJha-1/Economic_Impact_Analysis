@@ -234,7 +234,7 @@ The 10 states selected for our analysis are as follows:
     <br>
     = 924.86 Cr.
     <br><br>
-	  <span style="color: green"><b> 5 - Rs. 924.86 Cr per hour</b></span>
+     <span style="color: green"> <b> 5 - Rs. 924.86 Cr per hour </b> </span>
   </li>
   <li>Total Net GDP loss due to Internet Shutdown in 2020 = 
     <br>
