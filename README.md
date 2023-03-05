@@ -279,4 +279,5 @@ The 10 states selected for our analysis are as follows:
 <li>The economic impact analysis of internet shutdowns in India revealed the negative effects of such shutdowns on Telecom Service Providers, E-Businesses, and citizens. </li><li>The loss to citizens was the highest, indicating the need for regulatory intervention to address the gaps in the current regulations governing internet shutdowns.</li> <li>The study recommends the establishment of an independent review committee, provision for public consultation, monetary compensation, and a redressal mechanism to address the negative effects of internet shutdowns.</li>
 		</ul>
    <a href="https://github.com/VinayakJha-1/Economic_Impact_Analysis/blob/main/Internet%20Shutdown%20Report%20(6).pdf" style="color: blue;"> Refer report</a>
+    <a href="https://docs.google.com/spreadsheets/d/1MYhTtk6r3R6noV9Q9NnD8N_21HH-UOe9meas6hY01NQ/edit?usp=sharing" style="color: blue;">Processed data link</a>
 
