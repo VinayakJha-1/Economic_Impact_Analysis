@@ -1,0 +1,23 @@
+,,PhonePe Digital transaction Data Set 2020,,,TRAI Telecom Dataset 2020,,,,,,State GDP (Per capita 2019-20) dataset,,,
+S.No.,States affected due to Internet Shutdown (IS) 2020,No of PhonePe transaction per Hour,Value of PhonePe transaction per Hour (Rs),Avg. value per transaction,No. of Internet Users 2020 (in Million),Average Data Usage per user per month (GB) - 2020,Total Data Usage per user per month (Million GB),Total Data Usage per Hour (GB),Average Wireless Data Revenue realization per GB (in Rs),Total Revenue realization per Hour (in Rs) - 2020,NGDP 2019-20 (Per capita) in Rs,NGDP 2019-20 (Per capita) per hour in Rs,Population 2019,Total NGDP 2019-20 per hour (in Rs)
+1,Jammu and Kashmir,1459,4404721,3019,8.04,11.76,95,131944,10.93,1442148,102789,11.73,13606320,159602134
+2,Maharashtra,125533,191688891,1527,69.01,11.76,812,1127778,10.93,12326614,202130,23.07,123144223,2840937225
+3,West Bengal,34729,63102593,1817,35.3,11.76,415,576389,10.93,6299932,113163,12.92,99609303,1286952195
+4,Andhra Pradesh,87171,191427516,2196,62.59,11.76,736,1022222,10.93,11172886,168480,19.23,53903393,1036562247
+5,Madhya Pradesh,47710,87309300,1830,52.91,11.76,622,863889,10.93,9442307,103288,11.79,85358965,1006382197
+6,Uttar Pradesh,57496,109299896,1901,98.68,11.76,1160,1611111,10.93,17609443,65704,7.5,237882725,1784120438
+7,Meghalaya,284,605772,2133,1.455,11.76,17,23611,10.93,258068,87170,9.95,3366710,33498765
+8,Manipur,565,1828340,3236,1.455,11.76,17,23611,10.93,258068,84746,9.67,3366710,32556086
+9,Rajasthan,62053,121437721,1957,43.85,11.76,516,716667,10.93,7833170,115492,13.18,81032689,1068010841
+10,Arunachal Pradesh,405,1072035,2647,1.455,11.76,17,23611,10.93,258068,169742,19.38,1570458,30435476
+,,417405,772176785,1850,374.745,,,6120833,,66642636,,,701,9248622128
+,,,,,,,,,,,,,,
+,,Avg. Value of transaction (in Cr) Per Hour in State of Internet Shutdown (IS) in 2020,77,,,,,,Total Revenue realization by Telco per Hour (in Cr),6.66,,,Total NGDP per Hour (in Cr),924.86
+,,Hour of IS in 2020,8927,,,,,,Hour of IS in 2020,8927,,,Hour of IS in 2020,8927
+,,Revenue (Loss) in Billion Rupees,6874,,,,,,Revenue (Loss) in Billion Rupees,595,,,NGDP (Loss) in Billion Rupees,82562
+,,INR equivalent to $ in 2020,75,,,,,,INR equivalent to $ in 2020,75,,,INR equivalent to $ in 2020,75
+,,Revenue (Loss) in Billion $ in 2020 due to IS,92,,,,,,Revenue (Loss) in Billion $ in 2020 due to IS,8,,,NGDP (Loss) in Billion $ in 2020,1101
+,,Population affected (in Million),10.3,,,,,,Population affected (in Million),10.3,,,Contribution of Digital Economy to India GDP in 2020,7.70%
+,,Effective Revenue (Loss) in Billion $ in 2020 due to IS,2.53,,,,,,Effective Revenue (Loss) in Billion $ in 2020 due to IS,0.22,,,NGDP (Loss) in Billion $ in 2020 due to IS,84.777
+,,,,,,,,,,,,,Population affected (in Million),10.3
+,,,,,,,,,,,,,Net GDP Loss in Billion $ in 2020 due to IS,1.25
