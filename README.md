@@ -9,6 +9,7 @@
       font-family: Arial, sans-serif;
       color: #333;
       margin: 0;
+      text-align: justify;
       padding: 0;
     }
   
