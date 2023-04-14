@@ -84,15 +84,7 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
   </ul>
 
 <h3>	Identification of independent variables leading to economic impacts</h3>
-
-<ul>
-  <li>Time of internet shutdown (Hours/Days)</li>
-  <li> Cost of internet data (perGB/prepaid/postpaid)</li>
- <li>Number of Internet subscribers who are affected</li>
-  <li>Geography of internet shutdown (Location/state) - per capita income</li>
-  <li>Average data consumption per user in the location/state</li>
-  <li>	Digital financial transactions in the state</li>
-  </ul>
+<p>The independent variables leading to economic impacts are the time of internet shutdown, cost of internet data, the number of internet subscribers affected, geography of internet shutdown, average data consumption per user, and digital financial transactions in the state. </p>
 
 <h2> Benefit Cost Analysis</h2>
 
@@ -101,20 +93,8 @@ Through analysis of secondary Data sources (Suspension of Telecom Services/Inter
  <li> Risk of changing the existing Internet shutdown regulation (Cost to change the regulation)</li>
 </ul>
 
-<p>As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.</p>
-The 10 states selected for our analysis are as follows:
-<ul>
-  <li>Jammu and Kashmir</li>
-  <li>Maharashtra</li>
-  <li>West Bengal</li>
-  <li>Andhra Pradesh</li>
-  <li>Madhya Pradesh</li>
-  <li>Uttar Pradesh</li>
-  <li>Meghalaya</li>
-  <li>Manipur</li>
-  <li>Rajasthan</li>
-  <li>Arunachal Pradesh</li>
-</ul>
+<p> As per Top10VPN report[2], there were a total of 8927 hours of IS in India in 2020 and it has affected a total of 10.3 million population. This is taken as the basis for our calculation of economic impact.</p>
+<p>The 10 states selected for the economic impact analysis are Jammu and Kashmir, Maharashtra, West Bengal, Andhra Pradesh, Madhya Pradesh, Uttar Pradesh, Meghalaya, Manipur, Rajasthan, and Telangana.</p>
 
 <h2>Datasets</h2>
 
