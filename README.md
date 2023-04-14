@@ -46,7 +46,7 @@
 		<p>India has been often referred as the capital of internet shutdown with having more than 500 complete shutdowns from 2013-21. The highest number being noted in the recent year 2020 itself when number of shutdowns reached 129 as per a report by (https://internetshutdowns.in). Some of the common shutdown in our recent memories include during the protests against the government in Kashmir, growing foreign propaganda during Farmers Protest, maintain peace during violence in the West Bengal Elections (Newslaundry,2021). The study aims to highlight the economic impact on state and its citizens as a result of internet shutdown.
 I have used spreedsheets for performing the following analysis.
 </p>
-		
+<a href=“https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour”> <img src=“https://www.bing.com/ai-image-generator/images/internet-shutdown-protest.jpg” width=“500”> </a>		
 		
 <a href="https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour"> 
   <img src="https://images.assettype.com/thequint/2018-07/1c292734-8b14-427d-a67a-0a1a2e11080d/g.jpg" width="500">
